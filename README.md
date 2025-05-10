@@ -49,7 +49,7 @@ To effectively meet the outlined business requirements, the proposed solution is
 
 ![Dashboard Preview](architecture_diagram/AdventureWorks_Architecture_Diagram.png)
 
-<img src="architecture_diagram/AdventureWorks_Architecture_Diagram.png?raw=true" 
+<img src="architecture_diagram/AdventureWorks_Architecture_Diagram.png?raw=true"
      alt="Your Image Description" 
      style="border: 5px solid #000; padding: 10px; border-radius: 10px; animation: glow 1.5s infinite alternate;" />
 
