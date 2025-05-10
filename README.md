@@ -98,3 +98,18 @@ To effectively meet the outlined business requirements, the proposed solution is
 ## Conclusion
 
 This project delivers a robust, end-to-end data solution designed to enhance the understanding of customer demographics and their influence on sales performance. By implementing a fully automated data pipeline, the solution ensures that stakeholders consistently have access to accurate, timely, and actionable insights to support data-driven decision-making.
+
+## Contact
+
+Author: [@Sagarkumar Patel](https://www.linkedin.com/in/sagarkumar2309/) 
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200">
+</p>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=I+hope+this+work+serves+you+well!" alt="Typing SVG" />
+  </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
