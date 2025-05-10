@@ -1,6 +1,6 @@
 # AdventureWorksData2022 - Azure DE Real-Time Project
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
+<div align='justify'>
 This project is a data engineering pipeline solution to a made-up business problem, created to aid in my learning and understanding of data pipelining.
 
 ## Project Overview
@@ -97,7 +97,7 @@ To effectively meet the outlined business requirements, the proposed solution is
 
 ## Conclusion
 
-This project delivers a robust, end-to-end data solution designed to enhance the understanding of customer demographics and their influence on sales performance. By implementing a fully automated data pipeline, the solution ensures that stakeholders consistently have access to accurate, timely, and actionable insights to support data-driven decision-making.
+This project delivers a robust, end-to-end data solution designed to enhance the understanding of customer demographics and their influence on sales performance. By implementing a fully automated data pipeline, the solution ensures that stakeholders consistently have access to accurate, timely, and actionable insights to support data-driven decision-making. </div>
 
 ## Contact
 
