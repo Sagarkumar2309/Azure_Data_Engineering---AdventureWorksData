@@ -49,25 +49,6 @@ To effectively meet the outlined business requirements, the proposed solution is
 
 ![Dashboard Preview](architecture_diagram/AdventureWorks_Architecture_Diagram.png)
 
-<img src="architecture_diagram/AdventureWorks_Architecture_Diagram.png?raw=true"
-     alt="Your Image Description" 
-     style="border: 5px solid #000; padding: 10px; border-radius: 10px; animation: glow 1.5s infinite alternate;" />
-
-<style>
-@keyframes glow {
-  0% {
-    border-color: #000;
-    box-shadow: 0 0 5px #ff0000;
-  }
-  100% {
-    border-color: #ff0000;
-    box-shadow: 0 0 15px #ff0000;
-  }
-}
-</style>
-
-
-
 ## Setup Instructions
 
 ### Prerequisites
