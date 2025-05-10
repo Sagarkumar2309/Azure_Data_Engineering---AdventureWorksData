@@ -1,6 +1,8 @@
 # Azure End-to-End Data Engineering Real-Time Project -- AdventureWorksData2022
 This project is a data engineering pipeline solution to a made-up business problem, created to aid in my learning and understanding of data pipelining.
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
 ## Project Overview
 
 This project addresses a critical business requirement by developing a comprehensive data pipeline leveraging Microsoft Azure services. The primary objective is to extract customer and sales data from an on-premises SQL database, perform data transformation processes within the cloud environment, and deliver actionable insights through a Power BI dashboard. The dashboard will present key performance indicators (KPIs) focused on gender distribution and product category sales, enabling stakeholders to filter and analyze the data by date, product category, and gender for informed decision-making.
