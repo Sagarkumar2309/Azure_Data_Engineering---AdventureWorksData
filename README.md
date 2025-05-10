@@ -1,5 +1,4 @@
 # Azure End-to-End Data Engineering Real-Time Project -- AdventureWorksData2022
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 This project is a data engineering pipeline solution to a made-up business problem, created to aid in my learning and understanding of data pipelining.
