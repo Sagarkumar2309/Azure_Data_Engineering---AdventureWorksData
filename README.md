@@ -45,6 +45,8 @@ To effectively meet the outlined business requirements, the proposed solution is
 - **Azure Key Vault**: For securely managing credentials and secrets.
 - **SQL Server (On-Premises)**: Source of customer and sales data.
 
+![Dashboard Preview](architecture_diagram/AdventureWorks_Architecture_Diagram.png)
+
 ## Setup Instructions
 
 ### Prerequisites
