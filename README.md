@@ -108,7 +108,7 @@ Author: [@Sagarkumar Patel](https://www.linkedin.com/in/sagarkumar2309/)
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=I+hope+this+work+serves+you+well!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=550&lines=Feel+free+to+fork,+adapt,+or+contribute.;Feedback+and+collaboration+are+always+welcome!" alt="Typing SVG" />
   </a>
 </div>
 
